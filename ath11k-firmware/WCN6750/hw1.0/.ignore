@@ -1,0 +1,2 @@
+ath11k-fw-repo doesn't yet support firmware variant directories (eg. sc7280) so
+it needs to skip WCN6750 firmware images for now.
